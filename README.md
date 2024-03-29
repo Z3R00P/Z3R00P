@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Z3R00P
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning front end
+- 👀 I’m interested in fps games
+- 🌱 I’m currently learning mobile development with react-native
 - 📫 How to reach me pedrotrienta@gmail.com 
 
 <!---
