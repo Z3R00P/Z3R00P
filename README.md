@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Z3R00P
-- 👀 I’m interested in fps games
+- 👋 Hi, I’m Zero
+- 👀 I’m interested in games, music and code
 - 🌱 I’m currently learning mobile development with react-native
 - 📫 How to reach me pedrotrienta@gmail.com 
 
