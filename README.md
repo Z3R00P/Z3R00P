@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Zero
 - 👀 I’m interested in games, music and code
-- 🌱 I’m currently learning mobile development with react-native
+- 🌱 I’m currently learning Django
 - 📫 How to reach me pedrotrienta@gmail.com 
 
 <!---
