@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Zero
+- 👋 Hi, I’m Pedro
 - 👀 I’m interested in games, music and code
 - 🌱 I’m currently learning Django
 - 📫 How to reach me pedrotrienta@gmail.com 
