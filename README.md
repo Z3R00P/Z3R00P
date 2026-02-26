@@ -1,15 +1,7 @@
-### Olá, eu sou o Pedro 👋
-Sou desenvolvedor **Full Stack**
+### Hi, my name is Pedro 👋
+I'm a **Full Stack** dev, software engineering student at **Federal University of Mato Grosso do Sul** in Brazil, now learning Java and Spring!
 
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
-
-### 📌 Projetos para conhecer
-
-[![UrlVerifier](https://github-readme-stats.vercel.app/api/pin/?username=Z3R00P&repo=UrlVerifier&bg_color=000&text_color=FFF&title_color=FFF&icon_color=FFF)](https://github.com/Z3R00P/UrlVerifier)
-
-### 🚀 Linguagens Mais Usadas
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Z3R00P&layout=compact&bg_color=000&text_color=FFF&title_color=FFF)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 ### 🔗 Links
 
